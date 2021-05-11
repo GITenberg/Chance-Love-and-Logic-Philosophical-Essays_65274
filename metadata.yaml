@@ -1,5 +1,5 @@
 _repo: Chance-Love-and-Logic-Philosophical-Essays_65274
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Dewey, John
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '446'
     url: http://www.gutenberg.org/2009/agents/446
     wikipedia: https://en.wikipedia.org/wiki/John_Dewey
+covers:
+- cover_type: archival
+  image_path: 65274-h/images/cover.jpg
 creator:
   author:
     agent_name: Peirce, Charles S.
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '53265'
     url: http://www.gutenberg.org/2009/agents/53265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65274#Chance-Love-and-Logic-Philosophical-Essays
 gutenberg_issued: '2021-05-07'
 gutenberg_type: Text
 identifiers:
