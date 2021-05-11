@@ -1,0 +1,34 @@
+_repo: Chance-Love-and-Logic-Philosophical-Essays_65274
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: https://en.wikipedia.org/wiki/John_Dewey
+creator:
+  author:
+    agent_name: Peirce, Charles S.
+    gutenberg_agent_id: '53264'
+    url: http://www.gutenberg.org/2009/agents/53264
+  editor:
+    agent_name: Cohen, Morris R.
+    gutenberg_agent_id: '53265'
+    url: http://www.gutenberg.org/2009/agents/53265
+description: ''
+gutenberg_issued: '2021-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chance, Love, and Logic
+
+  Philosophical Essays'
+url: http://www.gutenberg.org/ebooks/65274
